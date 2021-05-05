@@ -1,0 +1,3 @@
+/home/romulo/trabalho/captulo/Trabalhos_da_faculade_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/romulo/trabalho/captulo/Trabalhos_da_faculade_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/romulo/trabalho/captulo/Trabalhos_da_faculade_C/cmake-build-debug/CMakeFiles/Trabalhos_da_faculade_C.dir
